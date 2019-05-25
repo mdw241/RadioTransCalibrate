@@ -1,0 +1,11 @@
+Package: RadioTransCalibrate
+Title: Temperature Calibrate of Radio Transmitters
+Version: 0.0.0.9000
+Authors@R: person("Malachi", "Whitford", email = "mwhitford@ucdavis.edu", role = c("aut", "cre"))
+Description: Calibrates the beep period of a radio transmitter with temperature. Provides both a linear
+ and quadratic equation for the relationship between the time period between transmitter beeps and the temperature of the transmitter. 
+Depends: R (>= 3.5.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1.9000
